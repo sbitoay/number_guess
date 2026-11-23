@@ -96,13 +96,20 @@ INSERT INTO public.users VALUES (3, 'user_1795469897185', 0, NULL);
 INSERT INTO public.users VALUES (4, 'user_1795469897184', 0, NULL);
 INSERT INTO public.users VALUES (6, 'user_1795469980787', 2, 803);
 INSERT INTO public.users VALUES (5, 'user_1795469980788', 5, 49);
+INSERT INTO public.users VALUES (8, 'user_1795470174899', 2, 204);
+INSERT INTO public.users VALUES (7, 'user_1795470174900', 5, 223);
+INSERT INTO public.users VALUES (9, 'Minombreaver', 1, 12);
+INSERT INTO public.users VALUES (11, 'user_1795470281257', 2, 675);
+INSERT INTO public.users VALUES (10, 'user_1795470281258', 5, 173);
+INSERT INTO public.users VALUES (13, 'user_1795470405692', 2, 143);
+INSERT INTO public.users VALUES (12, 'user_1795470405693', 5, 220);
 
 
 --
 -- Name: users_user_id_seq; Type: SEQUENCE SET; Schema: public; Owner: freecodecamp
 --
 
-SELECT pg_catalog.setval('public.users_user_id_seq', 6, true);
+SELECT pg_catalog.setval('public.users_user_id_seq', 13, true);
 
 
 --
