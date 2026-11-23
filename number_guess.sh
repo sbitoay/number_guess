@@ -1,3 +1,4 @@
+# Executable Bash script
 #!/bin/bash
 # Number Guessing Game script
 
